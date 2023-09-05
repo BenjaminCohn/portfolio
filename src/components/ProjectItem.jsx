@@ -13,7 +13,6 @@ const  ProjectItem = ({img, title}) => {
             <a href="/">
                 <p className='text-center p-3 rounded-ld bg-white text-gray-700 font-bold cursor-pointer text-lg'>More Info</p>
             </a>
-
         </div>
     </div>
   )
